@@ -1,4 +1,4 @@
-# Fotogrametria i teledetekcja nieskiego pułapu
+# Fotogrametria i teledetekcja niskiego pułapu
 (C) by Paweł Burdziakowski
 Palitechnika Gdańska - Wydział Inżynierii Lądowej i Środowiska.
 
